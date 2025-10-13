@@ -3,7 +3,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sweetheart/video-stream)## VPS Deployment 📡
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pallavisarkaar07/video-stream)
 ```sh
 
 https://dashboard.heroku.com/new?template=
