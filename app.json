@@ -1,8 +1,10 @@
 {
+
     "name": "sweetheart music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
-    "keywords": [
+    "keywords": ["music", "voice chat", "telegram"],
+    "repository": "https://github.com/pallavisarkaar07/Sweetheart",
     "python3",
     "telegram",
     "bot",
